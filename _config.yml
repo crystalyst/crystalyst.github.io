@@ -30,7 +30,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-remote-theme: niklasbuschmann/contrast
-url: "https://crystalyst.github.io"
-baseurl: ""
